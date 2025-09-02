@@ -4,6 +4,8 @@ overtime_hours = int(input())
 tax_status = input()
 
 # TODO your code here
+tax_rate = 0
+if tax_status = "Single" and base_salary >= 5000
 
 
 print(employee_name)
